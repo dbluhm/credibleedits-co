@@ -1,0 +1,9 @@
+baseURL = 'https://credibleedits.co/'
+languageCode = 'en-us'
+title = 'Credible Edits'
+theme = 'split'
+
+[params.visual.image]
+enable = true
+file = "images/main.jpeg"
+position = "center center"
